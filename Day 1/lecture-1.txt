@@ -1,4 +1,5 @@
 interpreter
 Why python interpreter and scriptting
+datatype declaration
 List
 prblm reverse in sort
