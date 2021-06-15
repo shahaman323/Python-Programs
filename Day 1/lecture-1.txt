@@ -1,0 +1,4 @@
+interpreter
+Why python interpreter and scriptting
+List
+prblm reverse in sort
