@@ -8,7 +8,8 @@ print(fixed_price)
 
 
 #creating with one tuple
-my_tuple=("aman",)
+my_tuple=("aman")
 print(my_tuple)
-
+#checking type
+print(type(my_tuple))
 print(len(my_tuple))
