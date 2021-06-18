@@ -49,6 +49,11 @@ for v in n:
     for b in m:
         print(v,b)
 
+#increment in for loop by 2
+lis =["aman","gagan","kaustav","prakhar"]
+for i in range(len(lis)):
+    print(lis[i])
+    i+=2
 
 
 
